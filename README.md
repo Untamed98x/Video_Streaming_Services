@@ -1,7 +1,5 @@
 # Video_Streaming_Services
-Here’s a structured README that summarizes your project based on the provided information, formatted for clarity and ease of use on GitHub:
 
-```markdown
 # Streaming Site Project - PacFlix
 
 PacFlix is a streaming service offering various subscription plans with features tailored to meet the needs of its users.
@@ -97,12 +95,3 @@ The user data will include:
   - username, selected plan, referral code.
 - **Output**: 
   - total amount to be paid.
-
-___
-```
-
-### Explanation
-
-- This README provides a comprehensive overview of the PacFlix project, including case descriptions, objectives, and specific case studies.
-- It organizes information into clear sections and utilizes tables for better presentation.
-- You can customize the formatting further or add additional sections as needed!
